@@ -54,10 +54,15 @@ Full-stack Node, Express, MongoDB, React, Stripe app from Stephen Grider
 
 ### Screenshot
 
-![Postman register](./public/screenshots/register.png)
-![MySQL "users" table](./public/screenshots/db-users.png)
-![Browser /users](./public/screenshots/users.png)
-![Postman login](./public/screenshots/login.png)
+![Heroku ](./client/public/screenshots/heroku.png)
+![User logged ](./client/public/screenshots/logged-user.png)
+![User billing ](./client/public/screenshots/stripe-billing.png)
+![MongoDB Atlas "users" table](./client/public/screenshots/atlas-users.png)
+![MongoDB Atlas "surveys" table](./client/public/screenshots/atlas-survey.png)
+![Browser /users/ sending surveys](./client/public/screenshots/testing-console.png)
+![Browser /users/ response surveys](./client/public/screenshots/test-response.png)
+![Mail Inbox](./client/public/screenshots/email.png)
+![SendGrid Activity Feed](./client/public/screenshots/sendgrid.png)
 ## Author
 - Website - [Tatjana Markovic](https://my-react-portfolio-tatjana.vercel.app/)
 - LinkedIn - [Tatjana Marković](https://www.linkedin.com/in/tatjana-markovi%C4%87-919501189/)
