@@ -47,10 +47,12 @@ Full-stack Node, Express, MongoDB, React, Stripe app from Stephen Grider
     6. Stripe - billing API
     7. Mongoose
     8. MongoDB
-    9. React.js
-    10. Redux
+    9. React.js, react-router-dom, 
+    10. Redux, Redux-Form
     11. Axios
     12. SendGrid - Email webserver (https://signup.sendgrid.com/ )
+    13. Materialize CSS, icons
+    
 
 ### Screenshot
 
