@@ -19,6 +19,9 @@ Full-stack Node, Express, MongoDB, React, Stripe app from Stephen Grider
         /client: npm run build
 3. find it on
     http://localhost:3000
+4. ngrok start server (only on development mode)
+    open -> C:\Users\L\Desktop\ngrok-stable-windows-amd64
+    on terminal -> ngrok http 5000
 
 ## Overview
     Emaily  is an api server that listens on port 3000 on development mode
@@ -35,6 +38,7 @@ Full-stack Node, Express, MongoDB, React, Stripe app from Stephen Grider
     4. POST - '/api/stripe' - billing with Stripe service,    
     5. POST - 'api/surveys' - new Survey, 
     6. GET - 'api/surveys/thanks' - Thank you page
+    7. POST - 'api/surveys/webhooks' - Place to send sendgrid click results
 
     It was tested with the help of a Postman.
 
@@ -52,6 +56,8 @@ Full-stack Node, Express, MongoDB, React, Stripe app from Stephen Grider
     11. Axios
     12. SendGrid - Email webserver (https://signup.sendgrid.com/ )
     13. Materialize CSS, icons
+    14. Ngrok - localhost tunnel server
+    15. lodash, lodash path-parser
     
 
 ### Screenshot
@@ -65,6 +71,19 @@ Full-stack Node, Express, MongoDB, React, Stripe app from Stephen Grider
 ![Browser /users/ response surveys](./client/public/screenshots/test-response.png)
 ![Mail Inbox](./client/public/screenshots/email.png)
 ![SendGrid Activity Feed](./client/public/screenshots/sendgrid.png)
+![Form validation Errors](./client/public/screenshots/form-validation-errors.png)
+![Form](./client/public/screenshots/form.png)
+![Form Review](./client/public/screenshots/form-review.png)
+![Dashboard](./client/public/screenshots/dashboard.png)
+![Email Inbox](./client/public/screenshots/email-inbox.png)
+![Ngrok Start](./client/public/screenshots/ngrok-start.png)
+![SendGrid add Ngrok url](./client/public/screenshots/sendgrid-add-ngrok-url.png)
+![SendGrid Ngrok test connection](./client/public/screenshots/sendgrid-test-connection.png)
+![Ngrok terminal](./client/public/screenshots/ngrok-terminal.png)
+![SendGrid Ngrok response](./client/public/screenshots/sendgrid-ngrok-response.png)
+![Thank you](./client/public/screenshots/thank-you.png)
+![Webhooks](./client/public/screenshots/webhooks-body.png)
+![Updated Survey in mongodb](./client/public/screenshots/survays-updated.png)
 ## Author
 - Website - [Tatjana Markovic](https://my-react-portfolio-tatjana.vercel.app/)
 - LinkedIn - [Tatjana Marković](https://www.linkedin.com/in/tatjana-markovi%C4%87-919501189/)
