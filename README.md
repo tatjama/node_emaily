@@ -63,6 +63,7 @@ Full-stack Node, Express, MongoDB, React, Stripe app from Stephen Grider
 ### Screenshot
 
 ![Heroku ](./client/public/screenshots/heroku.png)
+![User logout](./client/public/screenshots/logout.png)
 ![User logged ](./client/public/screenshots/logged-user.png)
 ![User billing ](./client/public/screenshots/stripe-billing.png)
 ![MongoDB Atlas "users" table](./client/public/screenshots/atlas-users.png)
@@ -84,6 +85,7 @@ Full-stack Node, Express, MongoDB, React, Stripe app from Stephen Grider
 ![Thank you](./client/public/screenshots/thank-you.png)
 ![Webhooks](./client/public/screenshots/webhooks-body.png)
 ![Updated Survey in mongodb](./client/public/screenshots/survays-updated.png)
+![Survey List](./client/public/screenshots/survey-list.png)
 ## Author
 - Website - [Tatjana Markovic](https://my-react-portfolio-tatjana.vercel.app/)
 - LinkedIn - [Tatjana Marković](https://www.linkedin.com/in/tatjana-markovi%C4%87-919501189/)
